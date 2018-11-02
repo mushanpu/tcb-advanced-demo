@@ -1,0 +1,41 @@
+{
+	"miniprogramRoot": "client/",
+	"cloudfunctionRoot": "cloud/functions/",
+	"setting": {
+		"urlCheck": true,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true
+	},
+	"appid": "wxcf5102ada68a7ac9",
+	"projectname": "tcb-advanced-demo",
+	"libVersion": "2.3.2",
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"list": []
+		},
+		"miniprogram": {
+			"current": 0,
+			"list": [
+				{
+					"id": -1,
+					"name": "db guide",
+					"pathName": "/client/pages/databaseGuide/databaseGuide"
+				}
+			]
+		}
+	}
+}

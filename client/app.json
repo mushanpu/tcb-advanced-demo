@@ -1,0 +1,17 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/register/register",
+    "pages/userData/userData",
+    "pages/templateMessage/templateMessage",
+    "pages/WXAQRCode/WXAQRCode",
+    "pages/WXPay/WXPay"
+  ],
+  "window": {
+    "backgroundColor": "#F6F6F6",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#F6F6F6",
+    "navigationBarTitleText": "云开发高级教程demo",
+    "navigationBarTextStyle": "black"
+  }
+}

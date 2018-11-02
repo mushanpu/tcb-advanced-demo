@@ -1,0 +1,38 @@
+<!--index.wxml-->
+<view class="container">
+
+  <view class="uploader">
+    <navigator url="../register/register" open-type="navigate" class="uploader-text">
+      <text>用户注册与登录</text>
+    </navigator>
+  </view>
+
+
+  <view class="uploader">
+    <navigator url="../userData/userData" open-type="navigate" class="uploader-text">
+      <text>用户数据</text>
+    </navigator>
+  </view>
+
+
+  <view class="uploader">
+    <navigator url="../WXAQRCode/WXAQRCode" open-type="navigate" class="uploader-text">
+      <text>小程序码生成</text>
+    </navigator>
+  </view>
+
+
+  <view class="uploader">
+    <navigator url="../templateMessage/templateMessage" open-type="navigate" class="uploader-text">
+      <text>模板消息和统一服务消息</text>
+    </navigator>
+  </view>
+
+
+  <view class="uploader">
+    <navigator url="../WXPay/WXPay" open-type="navigate" class="uploader-text">
+      <text>微信支付</text>
+    </navigator>
+  </view>
+
+</view>
